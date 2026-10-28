@@ -61,18 +61,6 @@ The Multiple Linear Regression model achieved:
 
 The dataset contained **1,757 samples**.
 
-## Repository Contents
-
-```text
-├── README.md
-├── Report/
-│   └── CFS_Project_Report.pdf
-├── ANSYS/
-├── ML/
-├── Dataset/
-├── Dashboard/
-└── Results/
-```
 
 ## Tools
 
